@@ -36,8 +36,8 @@
 <img src="https://skillicons.dev/icons?i=react,ts,redux,python,fastapi,nodejs,aws,docker" />
 
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=pramodnaik-dev&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=PRAMODNAIK-DEV&theme=tokyonight" />
 
 <!-- Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramodnaik-dev&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMODNAIK-DEV&theme=tokyonight" />
 
