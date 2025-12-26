@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Naik</h1>
-<h3 align="center">Software Developer | Data Science | Fullstack Developer | MCA Graduate</h3>
+<h3 align="center">Software Developer | Data Science | Fullstack Developer | Guest Lecturer | MCA Graduate</h3>
 
 <p align="center">
   <a href="https://github.com/your-github-username">
