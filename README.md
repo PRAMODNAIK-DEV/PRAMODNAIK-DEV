@@ -29,3 +29,15 @@
 <p align="center">
   <i><strong> "Code with clarity. Build with purpose." </strong></i> ✨
 </p>
+
+
+
+<!-- Skills -->
+<img src="https://skillicons.dev/icons?i=react,ts,redux,python,fastapi,nodejs,aws,docker" />
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=pramodnaik-dev&theme=tokyonight" />
+
+<!-- Summary -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pramodnaik-dev&theme=tokyonight" />
+
