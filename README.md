@@ -19,6 +19,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMODNAIK-DEV&theme=tokyonight" />
 </p>
 
+<img src="https://metrics.lecoq.io/PRAMODNAIK-DEV?template=classic&languages=1&isocalendar=1" />
+
+
 ---
 
 <p align="center">
