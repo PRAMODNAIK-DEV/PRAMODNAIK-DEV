@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pramod Naik</h1>
 <h3 align="center">Software Developer | Data Science | Fullstack Developer | Guest Lecturer | MCA Graduate</h3>
+<p align="center">
+  I am a dedicated and skilled Software Development Engineer with a strong foundation in cloud technologies, underscored by my certification as a Cloud Practitioner. My passion for technology extends beyond coding; I actively share my knowledge and expertise as a guest lecturer, inspiring and mentoring the next generation of tech enthusiasts. With a commitment to continuous learning and professional growth, I excel in developing innovative solutions and thrive in collaborative environments. My experience and proactive approach to problem-solving make me a valuable asset in any tech-driven team.
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,redux,nodejs,express,aws,docker,java" />
