@@ -2,11 +2,11 @@
 <h3 align="center">Software Developer | Data Science | Fullstack Developer | Guest Lecturer | MCA Graduate</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,redux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,redux,nodejs,express,aws,docker,java" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=express,aws,docker,java,php,laravel,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgresql,mysql" />
 </p>
 
 
