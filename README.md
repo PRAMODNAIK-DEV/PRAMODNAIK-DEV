@@ -11,13 +11,11 @@
 
 ## 🚀 About Me
 
-- 💻 Software Developer with **2+ years of experience**
+- 💻 Software Developer with **5+ years of experience**
 - 🎓 MCA Graduate (Data Science specialization)
 - 👨‍🏫 Former **Assistant Professor & Guest Lecturer**
-- 🔁 Actively working with **React, Redux Toolkit & FastAPI**
 - ☁️ AWS Certified Professional
 - 🎯 Passionate about **scalable systems & clean architecture**
-- 📈 Preparing for **advanced backend & system design interviews**
 
 ---
 
@@ -51,47 +49,15 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🗳️ Aadhaar Based Online Voting System
-- Secure voting system with identity validation
-- Role-based access & data integrity
-- Tech: **Web Stack + Database**
-
-### 🛒 ShopStack (FastAPI Project)
-- Scalable E-commerce backend API
-- Demonstrates advanced **Pydantic & FastAPI concepts**
-- Modules: Users, Products, Orders, Cart
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PRAMODNAIK-DEV&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRAMODNAIK-DEV&theme=tokyonight" />
 </p>
-
----
-
-## 📚 Currently Learning
-
-- Advanced React Patterns
-- FastAPI Internals
-- System Design & Scalability
-- CI/CD with GitHub Actions
-- Automation & Testing
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 LinkedIn: **(Add your LinkedIn URL)**
-- 📧 Email: **(Add your email)**
-- 🌐 Portfolio: **(Optional)**
 
 ---
 
