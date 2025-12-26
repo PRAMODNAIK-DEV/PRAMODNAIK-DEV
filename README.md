@@ -22,5 +22,5 @@
 ---
 
 <p align="center">
-  <i>"Code with clarity. Build with purpose."</i> ✨
+  <i><strong> "Code with clarity. Build with purpose." </strong></i> ✨
 </p>
