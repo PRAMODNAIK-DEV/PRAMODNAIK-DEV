@@ -2,6 +2,11 @@
 <h3 align="center">Software Developer | Data Science | Fullstack Developer | Guest Lecturer | MCA Graduate</h3>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,nodejs,python,fastapi,aws,docker,postgresql" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/your-github-username">
     <img src="https://komarev.com/ghpvc/?username=PRAMODNAIK-DEV&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
@@ -18,12 +23,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMODNAIK-DEV&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,redux,nodejs,python,fastapi,aws,docker,postgresql" />
-</p>
-
-
 
 ---
 
