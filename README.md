@@ -2,7 +2,11 @@
 <h3 align="center">Software Developer | Data Science | Fullstack Developer | Guest Lecturer | MCA Graduate</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,redux,nodejs,express,aws,docker,java,php,laravel,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,js,ts,redux,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,aws,docker,java,php,laravel,postgresql,mysql" />
 </p>
 
 
@@ -29,15 +33,3 @@
 <p align="center">
   <i><strong> "Code with clarity. Build with purpose." </strong></i> ✨
 </p>
-
-
-
-<!-- Skills -->
-<img src="https://skillicons.dev/icons?i=react,ts,redux,python,fastapi,nodejs,aws,docker" />
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=PRAMODNAIK-DEV&theme=tokyonight" />
-
-<!-- Summary -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMODNAIK-DEV&theme=tokyonight" />
-
